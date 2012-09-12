@@ -1,0 +1,18 @@
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = git@github.com:skystack-cookbooks/mysql.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git@github.com:skystack-cookbooks/apt.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git@github.com:skystack-cookbooks/build-essential.git
+[submodule "cookbooks/php"]
+	path = cookbooks/php
+	url = git@github.com:skystack-cookbooks/php.git
+[submodule "cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = git@github.com:skystack-cookbooks/apache2.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git@github.com:skystack-cookbooks/openssl.git
